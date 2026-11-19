@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Krystian 🇵🇱
 
-I'm a **Web Developer** focused on building fast, modern web applications—mostly with **Next.js**. I'm a **privacy & security enthusiast** who enjoys system hardening, virtualization, and keeping my digital footprint compartmentalized with **Qubes OS**.
+I'm a **Web Developer** focused on building fast, modern web applications — mostly with **Next.js**. I'm a **privacy & security enthusiast** who enjoys Linux tinkering, system hardening, virtualization, and keeping my digital footprint compartmentalized with **Qubes OS**.
 
 ---
 
