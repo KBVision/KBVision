@@ -21,7 +21,7 @@ I'm a **Web Developer** focused on building fast, modern web applications—most
 | **CPU** | AMD Ryzen 7 9800X3D |
 | **RAM** | Patriot Viper Venom 64GB DDR5 6000MHz CL30 |
 | **GPU** | MSI GeForce RTX 5090 Vanguard SOC 32GB |
-| **Storage** | 2x Samsung 990 Pro 1TB PCIe 5.0 + 2x Samsung 980 Pro 1TB PCIe 4.0 |
+| **Storage** | 2x Samsung 990 Pro 1TB PCIe 4.0 + 2x Samsung 980 Pro 1TB PCIe 4.0 |
 
 ---
 
